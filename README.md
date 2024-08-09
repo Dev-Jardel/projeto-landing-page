@@ -23,7 +23,7 @@ Este projeto é uma landing page para a Escola DNC, que promove cursos de tecnol
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Dev-Jardel/projeto-landing-page
    ```
 2. **Abra o arquivo `index.html` em seu navegador.**
 3. **Para editar o conteúdo ou estilo, modifique os arquivos `index.html`, `style.css`, e `index.js` conforme necessário.**
