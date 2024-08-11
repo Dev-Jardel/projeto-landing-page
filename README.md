@@ -1,3 +1,7 @@
+Link do site disponibilizado: file:///C:/Users/Jardel/Documents/Projeto%20landinpage/index.html
+Link da panilha: https://docs.google.com/spreadsheets/d/1qzqqPEcrjhYLgsTJ9CU_V9zzcKDxA0S_8zUfdhjUo50/edit?gid=0#gid=0
+
+
 # Projeto Escola DNC
 
 Este projeto é uma landing page para a Escola DNC, que promove cursos de tecnologia. A página é responsiva e foi projetada para oferecer uma experiência amigável aos usuários, fornecendo informações sobre o curso, incluindo a carga horária, formato das aulas, e a possibilidade de inscrição diretamente na página.
