@@ -1,4 +1,4 @@
-Link do site disponibilizado: file:///C:/Users/Jardel/Documents/Projeto%20landinpage/index.html
+Link do site disponibilizado: https://meu-primeiro-projeto-dnc0001.netlify.app
 Link da panilha: https://docs.google.com/spreadsheets/d/1qzqqPEcrjhYLgsTJ9CU_V9zzcKDxA0S_8zUfdhjUo50/edit?gid=0#gid=0
 
 
